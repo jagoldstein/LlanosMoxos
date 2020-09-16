@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/LlanosMoxos/static/css/main.dfa9379b.chunk.css",
+    "main.js": "/LlanosMoxos/static/js/main.e952342d.chunk.js",
+    "main.js.map": "/LlanosMoxos/static/js/main.e952342d.chunk.js.map",
+    "runtime-main.js": "/LlanosMoxos/static/js/runtime-main.21cab923.js",
+    "runtime-main.js.map": "/LlanosMoxos/static/js/runtime-main.21cab923.js.map",
+    "static/css/2.0b5659ac.chunk.css": "/LlanosMoxos/static/css/2.0b5659ac.chunk.css",
+    "static/js/2.2750a880.chunk.js": "/LlanosMoxos/static/js/2.2750a880.chunk.js",
+    "static/js/2.2750a880.chunk.js.map": "/LlanosMoxos/static/js/2.2750a880.chunk.js.map",
+    "index.html": "/LlanosMoxos/index.html",
+    "precache-manifest.c591bd5a0800d5ace51080021d25c422.js": "/LlanosMoxos/precache-manifest.c591bd5a0800d5ace51080021d25c422.js",
+    "service-worker.js": "/LlanosMoxos/service-worker.js",
+    "static/css/2.0b5659ac.chunk.css.map": "/LlanosMoxos/static/css/2.0b5659ac.chunk.css.map",
+    "static/css/main.dfa9379b.chunk.css.map": "/LlanosMoxos/static/css/main.dfa9379b.chunk.css.map",
+    "static/js/2.2750a880.chunk.js.LICENSE.txt": "/LlanosMoxos/static/js/2.2750a880.chunk.js.LICENSE.txt",
+    "static/media/AOI.zip": "/LlanosMoxos/static/media/AOI.c13fa089.zip",
+    "static/media/Lomas.zip": "/LlanosMoxos/static/media/Lomas.d1778855.zip",
+    "static/media/Watersheds.zip": "/LlanosMoxos/static/media/Watersheds.f8041b03.zip",
+    "static/media/af.png": "/LlanosMoxos/static/media/af.a831c716.png",
+    "static/media/airplane.svg": "/LlanosMoxos/static/media/airplane.2e83c8d9.svg",
+    "static/media/city.svg": "/LlanosMoxos/static/media/city.bcb37580.svg",
+    "static/media/cw.png": "/LlanosMoxos/static/media/cw.32406ab8.png",
+    "static/media/doubleLeaf.svg": "/LlanosMoxos/static/media/doubleLeaf.f76f7a39.svg",
+    "static/media/exampleLegend4.png": "/LlanosMoxos/static/media/exampleLegend4.f9068c05.png",
+    "static/media/exampleRaster.tif": "/LlanosMoxos/static/media/exampleRaster.19a7859f.tif",
+    "static/media/forest.svg": "/LlanosMoxos/static/media/forest.002da688.svg",
+    "static/media/headerImg.png": "/LlanosMoxos/static/media/headerImg.b1b2edf8.png",
+    "static/media/house.svg": "/LlanosMoxos/static/media/house.a5b34d77.svg",
+    "static/media/leaf.svg": "/LlanosMoxos/static/media/leaf.1ee2cc6a.svg",
+    "static/media/natcap.png": "/LlanosMoxos/static/media/natcap.c6a9c80e.png",
+    "static/media/nationalParks.zip": "/LlanosMoxos/static/media/nationalParks.8ac0faef.zip",
+    "static/media/no-profile-img.png": "/LlanosMoxos/static/media/no-profile-img.c2ce20e8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21cab923.js",
+    "static/css/2.0b5659ac.chunk.css",
+    "static/js/2.2750a880.chunk.js",
+    "static/css/main.dfa9379b.chunk.css",
+    "static/js/main.e952342d.chunk.js"
+  ]
+}
