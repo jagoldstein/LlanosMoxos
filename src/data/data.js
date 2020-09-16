@@ -182,6 +182,17 @@ function Data() {
           chartProperties: ["L_ann", "Qf_ann", "Qb_ann"], // properties from the shapefile to display on the chart
           namesOfProperties: ["Property1", "Property2", "Property3"], // Names of the properties (use the same names in the chart for the colors)
         },
+        {
+          id: 5,
+          sectionID: 1,
+          title: "Lomas",
+          type: "shapefile",
+          src: "Lomas.zip",
+          style: Style().purples3,
+          legendSrc: "exampleLegend3.png",
+          selected: true,
+          tooltip: Tooltip().newTooltip,
+        },
       ],
 
 

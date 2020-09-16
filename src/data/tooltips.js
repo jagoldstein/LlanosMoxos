@@ -11,8 +11,14 @@ function Tooltip() {
     return "The area is: " + feature.properties.area + "sqkm";
   }
 
+  function newTooltip(feature) {
+    return "El nombre es: " + feature.properties.Nombre;
+  }
+
   // This exports an object containing all the  functions to be used in data.js
-  return { nameTooltip: nameTooltip, exampleTooltip: exampleTooltip };
+  return { nameTooltip: nameTooltip,
+          exampleTooltip: exampleTooltip,
+          newTooltip: newTooltip,};
 }
 
 export default Tooltip;
