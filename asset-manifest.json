@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LlanosMoxos/static/css/main.dfa9379b.chunk.css",
-    "main.js": "/LlanosMoxos/static/js/main.4bd6865c.chunk.js",
-    "main.js.map": "/LlanosMoxos/static/js/main.4bd6865c.chunk.js.map",
+    "main.js": "/LlanosMoxos/static/js/main.1ca09e2c.chunk.js",
+    "main.js.map": "/LlanosMoxos/static/js/main.1ca09e2c.chunk.js.map",
     "runtime-main.js": "/LlanosMoxos/static/js/runtime-main.21cab923.js",
     "runtime-main.js.map": "/LlanosMoxos/static/js/runtime-main.21cab923.js.map",
     "static/css/2.0b5659ac.chunk.css": "/LlanosMoxos/static/css/2.0b5659ac.chunk.css",
     "static/js/2.2750a880.chunk.js": "/LlanosMoxos/static/js/2.2750a880.chunk.js",
     "static/js/2.2750a880.chunk.js.map": "/LlanosMoxos/static/js/2.2750a880.chunk.js.map",
     "index.html": "/LlanosMoxos/index.html",
-    "precache-manifest.3eacafac94de23b2c5b0abfbcd5cb1c1.js": "/LlanosMoxos/precache-manifest.3eacafac94de23b2c5b0abfbcd5cb1c1.js",
+    "precache-manifest.dd5226aa41313e996e54bef2dc470af8.js": "/LlanosMoxos/precache-manifest.dd5226aa41313e996e54bef2dc470af8.js",
     "service-worker.js": "/LlanosMoxos/service-worker.js",
     "static/css/2.0b5659ac.chunk.css.map": "/LlanosMoxos/static/css/2.0b5659ac.chunk.css.map",
     "static/css/main.dfa9379b.chunk.css.map": "/LlanosMoxos/static/css/main.dfa9379b.chunk.css.map",
@@ -37,6 +37,6 @@
     "static/css/2.0b5659ac.chunk.css",
     "static/js/2.2750a880.chunk.js",
     "static/css/main.dfa9379b.chunk.css",
-    "static/js/main.4bd6865c.chunk.js"
+    "static/js/main.1ca09e2c.chunk.js"
   ]
 }
