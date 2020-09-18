@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6927995a0991433b03b87470586fdf20",
+    "revision": "f686b6b922ebbfac3c3f23074b47b89c",
     "url": "/LlanosMoxos/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LlanosMoxos/static/css/2.0b5659ac.chunk.css"
   },
   {
-    "revision": "656b4387bf45222563de",
+    "revision": "b42ee29ec53664cd10ea",
     "url": "/LlanosMoxos/static/css/main.dfa9379b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LlanosMoxos/static/js/2.2750a880.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "656b4387bf45222563de",
-    "url": "/LlanosMoxos/static/js/main.e952342d.chunk.js"
+    "revision": "b42ee29ec53664cd10ea",
+    "url": "/LlanosMoxos/static/js/main.5db0156b.chunk.js"
   },
   {
     "revision": "f6b942cbe30c1bc78393",

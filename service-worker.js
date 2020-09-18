@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LlanosMoxos/precache-manifest.c591bd5a0800d5ace51080021d25c422.js"
+  "/LlanosMoxos/precache-manifest.d9ace1dd6972c896e0a186d41ab0df29.js"
 );
 
 self.addEventListener('message', (event) => {
